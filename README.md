@@ -1,7 +1,7 @@
 README
 ================
 
-This plugin allow you to override customer address templates (in config.xml)
+This plugin allow you to override customer address templates (in `config.xml`)
 
 Deprecated
 ----------
