@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mageoncloud_Customerconfig>
+            <codePool>local</codePool>
+            <active>true</active>
+            <depends>
+                <Mage_Customer /><!-- so the config is loaded after the one from Mage_Customer -->
+            </depends>
+        </Mageoncloud_Customerconfig>
+    </modules>
+</config>
