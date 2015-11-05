@@ -6,6 +6,8 @@ This plugin allow you to override customer address templates (in config.xml)
 Deprecated
 ----------
 
+From http://stackoverflow.com/a/8596585/3075182
+
 It seems that the config.xml file is no longer used (or just to load the default values into the database).
 
 Go to:
