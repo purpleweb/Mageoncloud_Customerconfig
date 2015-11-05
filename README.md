@@ -3,6 +3,16 @@ README
 
 This plugin allow you to override customer address templates (in config.xml)
 
+Deprecated
+----------
+
+It seems that the config.xml file is no longer used (or just to load the default values into the database).
+
+Go to:
+
+System->Configuration->Customer->Customer Configuration and scroll down to Address Templates.
+There you find the same code as in the XML file.
+
 Install via Modman
 ----------------
 
